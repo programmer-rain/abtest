@@ -22,6 +22,21 @@ public class AbTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AbTestApplication.class, args);
+        System.out.println("" +
+        "╔════════════════════════════════════════════════════════════╗\n" +
+        "║                                                            ║\n" +
+        "║   (♥◠‿◠)ﾉﾞ  Rain Boot 启动成功!  ლ(´ڡ`ლ)ﾞ                  ║\n" +
+        "║                                                            ║\n" +
+        "║   ┌────────────────────────────────────────────────────┐   ║\n" +
+        "║   │  📱 微信公众号 : Rain的Java大神之路                    │  ║\n" +
+        "║   │  🌐 技术博客   : javadashen.com                     │   ║\n" +
+        "║   │  📖 专注Java技术分享与实战经验                         │  ║\n" +
+        "║   └────────────────────────────────────────────────────┘  ║\n" +
+        "║                                                           ║\n" +
+        "║   ☕ Code is poetry, Java is art.                         ║\n" +
+        "║   ✨ May the source be with you!                          ║\n" +
+        "║                                                            ║\n" +
+        "╚════════════════════════════════════════════════════════════╝");
     }
 
     /** 配置持有者：启动时用"两层三实验"构建初始不可变快照 */
